@@ -1,7 +1,7 @@
 #include "Circle.h"
 
 
-
+///////lololololololo
 Circle::Circle(float r)
 {
 	this->r = r;
@@ -26,6 +26,6 @@ float Circle::P()
 
 std::string Circle::GetName()
 {
-	return std::string("Окружности");
+	return std::string("ГЋГЄГ°ГіГ¦Г­Г®Г±ГІГЁ");
 }
 
